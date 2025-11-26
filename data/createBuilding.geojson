@@ -1,0 +1,501 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.02477246532061,
+              28.649497449358478
+            ],
+            [
+              77.02528257326367,
+              28.649457498553303
+            ],
+            [
+              77.02530399423182,
+              28.64979857290615
+            ],
+            [
+              77.02478543289465,
+              28.64983185873156
+            ],
+            [
+              77.0247995010356,
+              28.6498270700191
+            ],
+            [
+              77.02481769195128,
+              28.649724499498433
+            ],
+            [
+              77.02500769435119,
+              28.64971996014036
+            ],
+            [
+              77.02499591000043,
+              28.64957578758417
+            ],
+            [
+              77.02477559728686,
+              28.64960121372299
+            ],
+            [
+              77.02477246532061,
+              28.649497449358478
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BID": 1002,
+        "NAME": "Custom Building 5/16",
+        "height": 75,
+        "parcel_area": 1541.2463342596805,
+        "floors": 25,
+        "building_type": "Standard",
+        "apartmentCounts": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1,
+          "5": 1,
+          "6": 1,
+          "7": 1,
+          "8": 1,
+          "9": 1,
+          "10": 1,
+          "11": 1,
+          "12": 1,
+          "13": 1,
+          "14": 1,
+          "15": 1,
+          "16": 1,
+          "17": 1,
+          "18": 1,
+          "19": 1,
+          "20": 1,
+          "21": 1,
+          "22": 1,
+          "23": 1,
+          "24": 1,
+          "25": 1
+        },
+        "original_id": "5/16",
+        "parcel_type": "AGRICULTURE",
+        "parcel_subtype": "AGRICULTURE",
+        "village": "TILANGPUR KOTLA",
+        "subdivision": "PUNJABI BAGH",
+        "district": "WEST",
+        "perimeter": 243.976792414,
+        "plot_id": "5/16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.02604673131793,
+              28.648449521073246
+            ],
+            [
+              77.02607304703741,
+              28.648236177369583
+            ],
+            [
+              77.02621552248286,
+              28.64821142119014
+            ],
+            [
+              77.02660326508948,
+              28.64826110990441
+            ],
+            [
+              77.02663802578422,
+              28.648648317443218
+            ],
+            [
+              77.02617174238986,
+              28.648620566030687
+            ],
+            [
+              77.02604673131793,
+              28.648449521073246
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BID": 1009,
+        "NAME": "Building 10/2",
+        "height": 60,
+        "parcel_area": 2331.5007031775235,
+        "floors": 15,
+        "building_type": "Standard",
+        "apartmentCounts": {
+          "1": 3,
+          "2": 3,
+          "3": 3,
+          "4": 3,
+          "5": 3,
+          "6": 3,
+          "7": 3,
+          "8": 3,
+          "9": 3,
+          "10": 3,
+          "11": 3,
+          "12": 3,
+          "13": 3,
+          "14": 3,
+          "15": 3
+        },
+        "original_id": "10/2",
+        "parcel_type": "AGRICULTURE",
+        "parcel_subtype": "AGRICULTURE",
+        "village": "TILANGPUR KOTLA",
+        "subdivision": "PUNJABI BAGH",
+        "district": "WEST",
+        "perimeter": 296.754019844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.02694993622396,
+              28.65003345203766
+            ],
+            [
+              77.02759166283613,
+              28.65003345203766
+            ],
+            [
+              77.02752508350034,
+              28.65040267733859
+            ],
+            [
+              77.02700972377079,
+              28.65040267733859
+            ],
+            [
+              77.02694993622396,
+              28.65003345203766
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BID": 1010,
+        "NAME": "Custom Building 4/13/1",
+        "height": 75,
+        "parcel_area": 2322.9934754893297,
+        "floors": 15,
+        "building_type": "Standard",
+        "apartmentCounts": {
+          "1": 7,
+          "2": 7,
+          "3": 7,
+          "4": 7,
+          "5": 7,
+          "6": 7,
+          "7": 7,
+          "8": 7,
+          "9": 7,
+          "10": 7,
+          "11": 7,
+          "12": 7,
+          "13": 7,
+          "14": 7,
+          "15": 7
+        },
+        "original_id": "4/13/1",
+        "parcel_type": "AGRICULTURE",
+        "parcel_subtype": "AGRICULTURE",
+        "village": "TILANGPUR KOTLA",
+        "subdivision": "PUNJABI BAGH",
+        "district": "WEST",
+        "perimeter": 269.565541509,
+        "plot_id": "4/13/1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.02823412328024,
+              28.649898303783715
+            ],
+            [
+              77.02827692233569,
+              28.64947005024861
+            ],
+            [
+              77.02890008476925,
+              28.64950806436498
+            ],
+            [
+              77.02894066582598,
+              28.649891924225656
+            ],
+            [
+              77.02823412328024,
+              28.649898303783715
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BID": 1011,
+        "NAME": "Custom Building 4/16",
+        "height": 30,
+        "parcel_area": 2936.047930300232,
+        "floors": 10,
+        "building_type": "Standard",
+        "apartmentCounts": {
+          "1": 4,
+          "2": 4,
+          "3": 4,
+          "4": 4,
+          "5": 4,
+          "6": 4,
+          "7": 4,
+          "8": 4,
+          "9": 4,
+          "10": 4
+        },
+        "original_id": "4/16",
+        "parcel_type": "AGRICULTURE",
+        "parcel_subtype": "AGRICULTURE",
+        "village": "TILANGPUR KOTLA",
+        "subdivision": "PUNJABI BAGH",
+        "district": "WEST",
+        "perimeter": 289.224460791
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.02548062242126,
+              28.65052420871524
+            ],
+            [
+              77.02608815880826,
+              28.65052420871524
+            ],
+            [
+              77.02611400656247,
+              28.65090981855488
+            ],
+            [
+              77.02552014430535,
+              28.650914390030223
+            ],
+            [
+              77.02548062242126,
+              28.65052420871524
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BID": 1012,
+        "NAME": "Custom Building 4/10",
+        "height": 120,
+        "parcel_area": 2534.7193957940412,
+        "floors": 40,
+        "building_type": "Standard",
+        "apartmentCounts": {
+          "1": 2,
+          "2": 2,
+          "3": 2,
+          "4": 2,
+          "5": 2,
+          "6": 2,
+          "7": 2,
+          "8": 2,
+          "9": 2,
+          "10": 2,
+          "11": 2,
+          "12": 2,
+          "13": 2,
+          "14": 2,
+          "15": 2,
+          "16": 2,
+          "17": 2,
+          "18": 2,
+          "19": 2,
+          "20": 2,
+          "21": 2,
+          "22": 2,
+          "23": 2,
+          "24": 2,
+          "25": 2,
+          "26": 2,
+          "27": 2,
+          "28": 2,
+          "29": 2,
+          "30": 2,
+          "31": 2,
+          "32": 2,
+          "33": 2,
+          "34": 2,
+          "35": 2,
+          "36": 2,
+          "37": 2,
+          "38": 2,
+          "39": 2,
+          "40": 2
+        },
+        "original_id": "4/10",
+        "parcel_type": "AGRICULTURE",
+        "parcel_subtype": "AGRICULTURE",
+        "village": "TILANGPUR KOTLA",
+        "subdivision": "PUNJABI BAGH",
+        "district": "WEST",
+        "perimeter": 260.446511758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.02905962395988,
+              28.648964575706472
+            ],
+            [
+              77.02950743377534,
+              28.648999483131817
+            ],
+            [
+              77.02957605554604,
+              28.649340041354776
+            ],
+            [
+              77.02908302632204,
+              28.649286374928394
+            ],
+            [
+              77.02905962395988,
+              28.648964575706472
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BID": 1013,
+        "NAME": "Custom Building 3/21",
+        "height": 45,
+        "parcel_area": 1672.0721656925925,
+        "floors": 15,
+        "building_type": "Standard",
+        "apartmentCounts": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1,
+          "5": 1,
+          "6": 1,
+          "7": 1,
+          "8": 1,
+          "9": 1,
+          "10": 1,
+          "11": 1,
+          "12": 1,
+          "13": 1,
+          "14": 1,
+          "15": 1
+        },
+        "original_id": "3/21",
+        "parcel_type": "AGRICULTURE",
+        "parcel_subtype": "AGRICULTURE",
+        "village": "TILANGPUR KOTLA",
+        "subdivision": "PUNJABI BAGH",
+        "district": "WEST",
+        "perimeter": 244.081028636
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.02753296794259,
+              28.644736447574246
+            ],
+            [
+              77.02754761229414,
+              28.644354310397134
+            ],
+            [
+              77.02810065664539,
+              28.644357409898333
+            ],
+            [
+              77.02808983134094,
+              28.64472956776669
+            ],
+            [
+              77.02753296794259,
+              28.644736447574246
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "BID": 1014,
+        "NAME": "Custom Building 9/14",
+        "height": 48,
+        "parcel_area": 2275.9486379942746,
+        "floors": 16,
+        "building_type": "Standard",
+        "apartmentCounts": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1,
+          "5": 1,
+          "6": 1,
+          "7": 1,
+          "8": 1,
+          "9": 1,
+          "10": 1,
+          "11": 1,
+          "12": 1,
+          "13": 1,
+          "14": 1,
+          "15": 1,
+          "16": 1
+        },
+        "original_id": "9/14",
+        "parcel_type": "AGRICULTURE",
+        "parcel_subtype": "AGRICULTURE",
+        "village": "TILANGPUR KOTLA",
+        "subdivision": "PUNJABI BAGH",
+        "district": "WEST",
+        "perimeter": 231.167309632,
+        "plotPNIU": "86K4H0DA0RPHH0"
+      }
+    }
+  ]
+}

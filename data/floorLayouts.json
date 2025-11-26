@@ -1,0 +1,210 @@
+{
+  "1009_floor_15": {
+    "apartments": {
+      "1": {
+        "grid": {
+          "cols": 14,
+          "rows": 14
+        },
+        "rooms": [
+          {
+            "type": "office",
+            "x": 0,
+            "y": 0,
+            "width": 8,
+            "height": 9,
+            "name": "Office 1"
+          },
+          {
+            "type": "elevator",
+            "x": 11,
+            "y": 0,
+            "width": 3,
+            "height": 2,
+            "name": "Elevator"
+          },
+          {
+            "type": "elevator",
+            "x": 11,
+            "y": 3,
+            "width": 3,
+            "height": 2,
+            "name": "Elevator"
+          },
+          {
+            "type": "stairs",
+            "x": 0,
+            "y": 10,
+            "width": 7,
+            "height": 4,
+            "name": "Stairs"
+          },
+          {
+            "type": "bathroom",
+            "x": 9,
+            "y": 6,
+            "width": 5,
+            "height": 3,
+            "name": "Bathroom 1"
+          },
+          {
+            "type": "bathroom",
+            "x": 9,
+            "y": 11,
+            "width": 5,
+            "height": 3,
+            "name": "Bathroom 2"
+          }
+        ]
+      },
+      "2": {
+        "grid": {
+          "cols": 10,
+          "rows": 10
+        },
+        "rooms": [
+          {
+            "type": "reception",
+            "x": 0,
+            "y": 1,
+            "width": 10,
+            "height": 10,
+            "name": "Reception"
+          }
+        ]
+      }
+    }
+  },
+  "1009_floor_14": {
+    "apartments": {
+      "1": {
+        "grid": {
+          "cols": 14,
+          "rows": 14
+        },
+        "rooms": [
+          {
+            "type": "custom",
+            "x": 3,
+            "y": 1,
+            "width": 8,
+            "height": 11,
+            "name": "Custome"
+          },
+          {
+            "type": "custom",
+            "x": 9,
+            "y": 5,
+            "width": 5,
+            "height": 8,
+            "name": "Custome"
+          }
+        ]
+      }
+    }
+  },
+  "1010_floor_15": {
+    "apartments": {
+      "1": {
+        "grid": {
+          "cols": 10,
+          "rows": 10
+        },
+        "rooms": [
+          {
+            "type": "office",
+            "x": 0,
+            "y": 0,
+            "width": 6,
+            "height": 6,
+            "name": "Office"
+          },
+          {
+            "type": "office",
+            "x": 0,
+            "y": 6,
+            "width": 10,
+            "height": 4,
+            "name": "Office"
+          },
+          {
+            "type": "elevator",
+            "x": 7,
+            "y": 0,
+            "width": 3,
+            "height": 3,
+            "name": "Elevator 2"
+          },
+          {
+            "type": "elevator",
+            "x": 7,
+            "y": 3,
+            "width": 3,
+            "height": 3,
+            "name": "Elevator 1"
+          }
+        ]
+      }
+    }
+  },
+  "1009_floor_13": {
+    "apartments": {
+      "1": {
+        "grid": {
+          "cols": 10,
+          "rows": 10
+        },
+        "rooms": [
+          {
+            "type": "office",
+            "x": 0,
+            "y": 0,
+            "width": 6,
+            "height": 5,
+            "name": "Office"
+          }
+        ]
+      }
+    }
+  },
+  "1011_floor_30": {
+    "apartments": {
+      "1": {
+        "grid": {
+          "cols": 10,
+          "rows": 10
+        },
+        "rooms": [
+          {
+            "type": "office",
+            "x": 0,
+            "y": 0,
+            "width": 1,
+            "height": 1,
+            "name": "Office"
+          }
+        ]
+      }
+    }
+  },
+  "1009_floor_10": {
+    "apartments": {
+      "1": {
+        "grid": {
+          "cols": 10,
+          "rows": 10
+        },
+        "rooms": [
+          {
+            "type": "meeting",
+            "x": 1,
+            "y": 3,
+            "width": 8,
+            "height": 5,
+            "name": "Meeting Room"
+          }
+        ]
+      }
+    }
+  }
+}
